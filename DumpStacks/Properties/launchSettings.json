@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DumpStacks": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\ibebb\\Downloads\\91ee796f-200b-443d-97eb-63eeb78433b0.dmp\""
+    }
+  }
+}
